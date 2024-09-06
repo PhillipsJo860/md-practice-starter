@@ -7,7 +7,8 @@
 [AMAZOIN](https://www.amazon.com/)
 
 [DA TY VID](https://www.youtube.com/watch?v=eWRfhZUzrAc)
-`print("WEEWOO")`
+
+`WEEWOO`
 ## ABOUT ME
 - **I AM A GAMER**
 - *I DONT TOUCH GRASS*
