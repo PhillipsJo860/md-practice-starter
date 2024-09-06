@@ -3,8 +3,8 @@
 ### AM Session
 ### Markdown Practice
 ![desert_sunset](https://github.com/user-attachments/assets/6c080009-3935-4b5a-b3e0-918b91ede948)
-[title](https://www.amazon.com/)
-[title](https://www.youtube.com/watch?v=eWRfhZUzrAc)
+[AMAZOIN](https://www.amazon.com/)
+[DA TY VID](https://www.youtube.com/watch?v=eWRfhZUzrAc)
 `print("WEEWOO")`
 ## ABOUT ME
 - **I AM A GAMER**
